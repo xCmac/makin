@@ -54,15 +54,15 @@ External dependencies:
 ### TODO: 
 * [DONE] ~~Use a disassembler such as [capstone](http://www.capstone-engine.org/) to hook little bit deeper and avoid simple hook checks.~~
 
-* At this moment, `makin` does not support child processes.
+* [DONE] ~~~At this moment, `makin` does not support child processes.~~~
 
-* ~~~Add more tricks.~~~~ Add more tricks.
+* [Partial] ~~~Add more tricks.~~~~ Add more tricks.
 
 * [DONE] ~~x86 support~~
 
 * [DONE] ~~~hook `kernelbase.dll`~~~
 
-* Add anti-vm, anti-emulation tricks detection [Partial]
+* [Partial] ~~~Add anti-vm, anti-emulation tricks detection.~~~ Add more tricks.
 
 * [DONE] ~~~Generate IDA Pro script to set BPs at detected APIs~~~
 
